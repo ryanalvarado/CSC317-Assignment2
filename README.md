@@ -1,6 +1,6 @@
 # CSC373-Assignment2
 
-This project is for CSC373 Introduction to Web Software Development. Our goal was to create a basic and pretty website that utlizes CSS, Javascript, and SVG images and animations.
+This project is for CSC373 Introduction to Web Software Development. Our goal was to create a basic and pretty website that utilizes CSS, Javascript, and SVG images and animations.
 
 
 ## References I used:
@@ -31,3 +31,7 @@ https://medium.com/@paulryan17/svg-path-basics-79a0334faab6
 
 SVG Animation
 https://www.w3schools.com/graphics/svg_animation.asp
+
+
+How to Create a Free Website Using GitHub Pages
+https://www.youtube.com/watch?v=o5g-lUuFgpg
