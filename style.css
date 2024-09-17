@@ -1,0 +1,165 @@
+#bannerimage {
+  width: 100%;
+  background-image: url(/resources/banner.svg);
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+nav {
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: "Bebas Neue";
+	height: 200px;
+	text-align: center;
+	margin: 20;
+	padding: 20;
+	font-size: 34px;
+}
+
+
+h1 {
+  color: rgb(0, 0, 0);
+  margin-bottom: 30px;
+  font-family: "Bebas Neue";
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 84px;
+  text-transform: capitalize;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  margin: 0px 0px 0px 0px;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 24px;
+  text-transform: capitalize;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0px 135px 0px 135px;
+  color: rgb(120, 120, 120);
+}
+
+
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  line-height: 1.4;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+a {
+  outline-color: transparent;
+  text-decoration: none;
+}
+
+a:link {
+  color: #b71000;
+}
+
+a:visited {
+  color: #c35500;
+}
+
+a:focus {
+  text-decoration: none;
+  background: #e42a00;
+}
+
+a:hover {
+  text-decoration: none;
+  background: #ececec;
+}
+
+a:active {
+  background: #c9835e;
+  color: #cdfeaa;
+}
+
+pre {
+	background: #f4f4f4;
+	border: 1px solid #ddd;
+	border-left: 3px solid #f36d33;
+	color: #666;
+	page-break-inside: avoid;
+	font-family: monospace;
+	font-size: 15px;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1em 1.5em;
+	display: block;
+	word-wrap: break-word;
+}
+
+hr {
+  border: none;
+  margin-top: 100px;
+	margin-bottom: 100px;
+  color: #eee;
+  font-size: 25px;
+}
+hr::before {
+  content: ' • • •';
+  display: block;
+  text-align: center;
+}
+
+
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 0.9em;
+	font-family: sans-serif;
+	min-width: 400px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+table thead tr {
+	background-color: #337ba2;
+	color: #ffffff;
+	text-align: left;
+}
+
+th, td {
+	padding: 12px 15px;
+}
+
+tbody tr {
+	border-bottom: 1px solid #dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+	background-color: #f3f3f3;
+}
+
+tbody tr:last-of-type {
+	border-bottom: 2px solid #025c70;
+}
+
+tbody tr.active-row {
+	font-weight: bold;
+	color: #027e98;
+}
+
+caption {
+  caption-side: top;
+  text-align: left;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-style: italic;
+}
