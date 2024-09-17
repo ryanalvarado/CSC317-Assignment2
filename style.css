@@ -1,6 +1,6 @@
 #bannerimage {
   width: 100%;
-  background-image: url(/resources/banner.svg);
+  /* background-image: url(/resources/banner.svg); */
   height: 300px;
   background-position: center;
   background-repeat: no-repeat;
