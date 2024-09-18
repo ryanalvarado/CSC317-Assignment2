@@ -1,4 +1,4 @@
-# CSC373-Assignment2
+# CSC317-Assignment2
 
 This project is for CSC373 Introduction to Web Software Development. Our goal was to create a basic and pretty website that utilizes CSS, Javascript, and SVG images and animations.
 
